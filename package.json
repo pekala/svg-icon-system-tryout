@@ -1,0 +1,14 @@
+{
+  "name": "svg-icon-system-tryout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "errands": "svg-sprite --symbol --symbol-example --dest=out icons/*.svg"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "svg-sprite": "^1.2.15"
+  }
+}
